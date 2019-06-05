@@ -20,8 +20,8 @@ body {
 }
 /*区块引用*/
 blockquote {
-	background-color: #efefef !important;
-	height: 45px !important;
+	/*background-color: #efefef !important;*/
+	/*height: 45px !important;*/
 	display: flex !important;
 	align-items: center !important;
 }
